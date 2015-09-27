@@ -12,4 +12,4 @@ This code book is valid for both files produced by the run_analysis.R script.
 |---------------------------------|-------------------------------------------------------------------
 | Activity                        | The activity being performed while collecting the record's data
 | Subject                         | A code identifying the subject who performed the activity from which the data was collected
-| [source]-[mean()|std()]-[X|Y|Z] | All other columns follow this format, where 'source' indicates the device where the measurement has been taken followed by the indication of whether it is a mean or standard deviation and which of three dimensions it relates to
+| [source]-[mean() std()]-[XYZ] | All other columns follow this format, where 'source' indicates the device where the measurement has been taken followed by the indication of whether it is a mean or standard deviation and which of three dimensions it relates to
